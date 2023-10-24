@@ -304,7 +304,7 @@ endif
 
 ###########################################################
 #
-# Deploying Member and Host Operators in Openshift CI Environment
+# Deploying Member and Host Operators in Openshift CI Environments
 #
 ###########################################################
 
